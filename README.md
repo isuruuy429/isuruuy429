@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m a QAE with over 7 years of experience. <br>👯 I love to initiate the QA process in the team and develop it from scratch. <br>🤝 I'm enthusiastic to build test automation frameworks. <br>🌱 I’m a Toastmaster, blogger, swimmer, TT player, Badminton player<br>
+🔭 I’m a QAE with over 7 years of experience. <br>👯 I have experience in initiatating the QA culture in the team,  and develop the QA Process from scratch. <br>🤝 I'm enthusiastic to build test automation frameworks. <br>🌱 I’m a Toastmaster, blogger, swimmer, TT player, Badminton player<br>
 
 
 ## 🌐 Socials:
