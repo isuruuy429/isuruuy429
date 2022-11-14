@@ -6,7 +6,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/isuru-uyanage) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@isuruuy) 
 
 # 💻 Tech Stack:
-Test Automation: Cypress, Selenium
+Test Automation: Cypress, Selenium <br>
 Programming Languages: Java, Javascript, Python
 
 # 📊 GitHub Stats:
