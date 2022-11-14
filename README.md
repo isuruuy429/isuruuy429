@@ -6,8 +6,14 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/isuru-uyanage) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@isuruuy) 
 
 # 💻 Tech Stack:
-Test Automation: Cypress, Selenium <br>
-Programming Languages: Java, Javascript, Python
+● Test automation: Cypress(10), Rest Assured, Selenium, TestNG, Maven, JMeter, SoapUI, Postman, Newman, Mocha <br>
+● Languages: Java, Javascript, Python <br>
+● Test Management tools: Qase, Testrail, Testlink <br>
+● Open source technologies: WSO2 Technologies (ESB/ API Manager/ Identity Server), Microservices <br>
+● Source code management: Git <br>
+● Defect Management: JIRA, Github <br>
+● DevOps: Jenkins, AWS technologies <br>
+● Low-code development: WSO2 Integration Studio <br>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=isuruuy429&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true)<br/>
